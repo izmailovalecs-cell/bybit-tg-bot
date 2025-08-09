@@ -1,0 +1,7 @@
+ccxt==4.4.28
+python-dotenv==1.0.1
+pandas==2.2.2
+numpy==1.26.4
+aiogram==3.7.0
+fastapi==0.111.0
+uvicorn==0.30.1
